@@ -9,4 +9,4 @@
 | Stair       | X        | X        | X           | X        | X                            | O                  | O        | X                                   | O                        | X        | O        |
 | Wall        | X        | X        | O           | X        | X                            | O                  | O        | O                                   | O                        | X        | O        |
 | Roof        | O        | X        | X           | O        | O                            | X                  | O        | O                                   | O                        | O        | O        |
-|     Roof    |     O    |     X    |     X       |     O    |     O                        |     X              |     O    |     O                               |     O                    |     O    |     O    |
+
