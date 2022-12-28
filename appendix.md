@@ -1,6 +1,6 @@
-|             | Sensor   ||||||| Actuator (change   in shape)        | Actuator (static)        | 　       | 　       |
-|-------------|----------|||||||-------------------------------------|--------------------------|----------|----------|
-|             | flow     | level    | temperature | pressure | proximity   and displacement | gas   and chemical | others   | mechanical                          | electrical               | thermal  | optical  |
+|Building Element| Sensor   |          |             |          |                              |                    |          | Actuator (change   in shape)        | Actuator (static)        | 　       | 　       |
+|-------------|----------|----------|-------------|----------|------------------------------|--------------------|----------|-------------------------------------|--------------------------|----------|----------|
+| Type        | flow     | level    | temperature | pressure | proximity   and displacement | gas   and chemical | others   | mechanical                          | electrical               | thermal  | optical  |
 | Beam        | X        | X        | X           | X        | O                            | X                  | O        | X                                   | X                        | X        | X        |
 | Column      | X        | X        | X           | X        | O                            | X                  | O        | X                                   | X                        | X        | X        |
 | Slab        | X        | X        | O           | O        | X                            | X                  | O        | O                                   | X                        | O        | O        |
@@ -9,4 +9,3 @@
 | Stair       | X        | X        | X           | X        | X                            | O                  | O        | X                                   | O                        | X        | O        |
 | Wall        | X        | X        | O           | X        | X                            | O                  | O        | O                                   | O                        | X        | O        |
 | Roof        | O        | X        | X           | O        | O                            | X                  | O        | O                                   | O                        | O        | O        |
-
