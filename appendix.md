@@ -1,4 +1,4 @@
-|             | Sensor   |          |             |          |                              |                    |          | Actuator (change   in shape)        | Actuator (static)        | 　       | 　       |
+|             | Sensor   ||||||| Actuator (change   in shape)        | Actuator (static)        | 　       | 　       |
 |-------------|----------|----------|-------------|----------|------------------------------|--------------------|----------|-------------------------------------|--------------------------|----------|----------|
 |             | flow     | level    | temperature | pressure | proximity   and displacement | gas   and chemical | others   | mechanical                          | electrical               | thermal  | optical  |
 | Beam        | X        | X        | X           | X        | O                            | X                  | O        | X                                   | X                        | X        | X        |
