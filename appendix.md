@@ -1,10 +1,10 @@
 Table
 Sensing and actuating availability of each building element in SDH
 
-|     Building element    |     Sensor    |              |                    |                 |                                   |                         |               |     Actuator           |                   |                |                |
+|     Building element    |     Sensor   |||||| |     Actuator           |                   |                |                |
 |-------------------------|---------------|--------------|--------------------|-----------------|-----------------------------------|-------------------------|---------------|------------------------|-------------------|----------------|----------------|
 |                         |     flow      |     level    |     temperature    |     pressure    |     proximity and displacement    |     gas and chemical    |     others    |     change in shape    |     static        |                |                |
-|                         |      ||       |              |                    |                 |                                   |                         |               |     mechanical         |     electrical    |     thermal    |     optical    |
+|                         |               |              |                    |                 |                                   |                         |               |     mechanical         |     electrical    |     thermal    |     optical    |
 |     Beam                |     X         |     X        |     X              |     X           |     O                             |     X                   |     O         |     X                  |     X             |     X          |     X          |
 |     Column              |     X         |     X        |     X              |     X           |     O                             |     X                   |     O         |     X                  |     X             |     X          |     X          |
 |     Slab                |     X         |     X        |     O              |     O           |     X                             |     X                   |     O         |     O                  |     X             |     O          |     O          |
