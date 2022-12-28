@@ -1,4 +1,4 @@
-| 　                         |                          | Beam | Column | Slab | Window | Door | Stair | Wall | Roof     |
+| Category                   | Type                     | Beam | Column | Slab | Window | Door | Stair | Wall | Roof     |
 |----------------------------|--------------------------|------|--------|------|--------|------|-------|------|----------|
 | Sensor                     | flow                     |   -  |    -   |   -  |    ○   |   ○  |   -   |   -  |     ○    |
 |                            | level                    |   -  |    -   |   -  |    -   |   -  |   -   |   -  |     -    |
