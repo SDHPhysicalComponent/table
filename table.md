@@ -1,4 +1,4 @@
-Table 1 (alt1)
+Table 1  
 Sensing and actuating availability of each building element in SDH
 
 | Category                   | Type                     | Beam | Column | Slab | Window | Door | Stair | Wall | Roof     |
